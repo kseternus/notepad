@@ -213,7 +213,7 @@ def about():
     about_window.geometry('200x180')
     about_window.resizable(False, False)
     about_info = tk.Label(about_window, text='Notepad\n'
-                                             'Version: 0.3 beta\n\n'
+                                             'Version: 0.2 beta\n\n'
                                              'Made by:\n'
                                              'Kamil Seternus\n'
                                              '2024',
